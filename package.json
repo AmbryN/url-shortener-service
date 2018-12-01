@@ -1,0 +1,15 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "Takes an url and gives you a shortened link for it",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "AmbryN",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
